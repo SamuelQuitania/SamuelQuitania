@@ -5,7 +5,7 @@
 - 💞️ Estou procurando colaborar em projetos de Front-End e também em iniciativas open source
 - 📫 Como falar comigo:  
   [![LinkedIn](https://img.shields.io/badge/-SamuelQuitania-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-quit%C3%A2nia-a716742ab/)](https://www.linkedin.com/in/samuel-quit%C3%A2nia-a716742ab/)  
-  📧 Email: seu.email@example.com
+  📧 Email: samuelquitania@gmail.com
 
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Faço uns cafés top enquanto o código compila ☕
